@@ -1,10 +1,10 @@
 {
-  "spider": "./jar/fan.txt;md5;1fb66ff185ea35252d2ae2a07d058ec1",
+  "spider": "./jar/fan.txt;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
   "wallpaper": "",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<8.19更新> 修复海绵 厂长",
+      "name": "<8.23更新> 修复弹幕 海绵",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
