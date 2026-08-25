@@ -1,10 +1,10 @@
 {
-  "spider": "./jar/fan.txt;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+  "spider": "./jar/fan.txt;md5;608d621640f5ed5ae8c78158ca61bff7",
   "wallpaper": "",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<8.23更新> 修复弹幕 海绵",
+      "name": "<8.25更新> 修复动漫 看球",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -35,7 +35,7 @@
       "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "Cloud-drive": "./tvfan/Cloud-drive.txt"
       }
@@ -282,16 +282,6 @@
       "changeable": 1
     },
     {
-      "key": "Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1Guard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "看球",
       "name": "⚽八八┃看球",
       "type": 3,
@@ -305,7 +295,7 @@
     },
     {
       "key": "多多",
-      "name": "🏀多多┃看球",
+      "name": "🏀多多┃回放",
       "type": 3,
       "api": "csp_DoubaoGuard",
       "searchable": 0,
