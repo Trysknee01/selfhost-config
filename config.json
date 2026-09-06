@@ -1,10 +1,10 @@
 {
-  "spider": "./jar/fan.txt;md5;608d621640f5ed5ae8c78158ca61bff7",
+  "spider": "./jar/fan.txt;md5;185b2fa185871f1d5b626b41304134d8",
   "wallpaper": "",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<8.25更新> 修复动漫 看球",
+      "name": "<9.04更新> 修复立播",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
